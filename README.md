@@ -1,6 +1,6 @@
 ### Hi there, I'm @Thirumalaiboobathi! 👋
 
-- 💼 Actively seeking entry-level opportunities in front-end development utilizing Python, Java, JavaScript, and ReactJS.
+- 💼 Actively seeking entry-level opportunities in front-end development utilizing  Java, JavaScript, and ReactJS.
 - 🌱 Currently refining my expertise in backend development and honing skills in JavaScript and ReactJS for front-end excellence.
 - 👀 I’m passionate about Python and Java development, driven by a love for UX design.
 - 📫 Reach out to me via email at thiru260402@gmail.com.
