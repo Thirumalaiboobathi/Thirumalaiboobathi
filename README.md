@@ -29,32 +29,41 @@
 
 ---
 
+## 📊 At A Glance
+
+<div align="center">
+
+| 🚀 Experience | 🤖 GenAI Projects | ☁️ AWS Focus | 🌍 Community |
+|--------------|------------------|-------------|-------------|
+| 2.5+ Years | 3+ Enterprise AI Projects | Bedrock & Cloud Native AI | AWS & AI Meetups |
+
+</div>
+
+<div align="center">
+
+| 🧠 Agentic AI | ⚡ Tech Stack | 📦 Deployments | 🎯 Current Focus |
+|-------------|-------------|-------------|-------------|
+| Multi-Agent Systems | React + Spring + GenAI | AWS + Docker + Jenkins | Production GenAI Apps |
+
+</div>
+
+---
+
 ## 🧠 About Me
 
 ```python
 class ThirumalaiBoobathi:
-    def __init__(self):
-        self.role         = "GenAI Engineer & Full Stack Developer"
-        self.experience   = "2.5+ years"
-        self.location     = "India 🇮🇳"
-        self.current_work = "Enterprise GenAI Applications & Multi-Agent Systems"
+  def __init__(self):
+    self.role = "GenAI Engineer & Full Stack Dev"
+    self.stack = ["LangGraph", "AWS Bedrock", "React", "Spring Boot"]
+    self.focus = "Agentic AI + RAG Pipelines"
+    self.community = "AWS Builder & GenAI Evangelist"
 
-    @property
-    def tech_focus(self):
-        return {
-            "ai_stack"  : ["LangChain", "LangGraph", "RAG Pipelines", "AWS Bedrock", "OpenAI"],
-            "frontend"  : ["React.js", "Flutter", "Material UI"],
-            "backend"   : ["Java", "Spring Boot", "REST APIs"],
-            "cloud"     : ["AWS", "Docker", "Jenkins", "Kubernetes"],
-            "databases" : ["MongoDB", "VectorDB"],
-        }
+  def currently_building(self):
+    return "Multi-Agent Clinical Copilot 🏥"
 
-    def daily_grind(self):
-        return [
-            "☕ Coffee → 🤖 Building Agentic Workflows",
-            "🔍 RAG Optimization → 📦 Ship to Production",
-            "🎤 AWS Community Events → 🌱 Share & Learn",
-        ]
+  def fun_fact(self):
+    return "Coffee ☕ → Code 💻 → Deploy 🚀 → Repeat"
 ```
 
 ---
@@ -98,9 +107,10 @@ class ThirumalaiBoobathi:
 
 > AI-powered assistant bridging modern technology with localized agricultural knowledge.
 
-- 🌱 **Smart crop recommendations** — region + season aware
-- 🔬 **Disease detection** — computer vision based
-- 💬 **Contextual AI chatbot** — localized farming insights
+-🌱 Smart crop recommendations — region and season-based farming guidance
+-🌦️ Weather-aware assistance — climate-informed agricultural recommendations
+-💬 AI-powered farming chatbot — localized agricultural insights and support
+-☁️ AWS SuperNova integration — scalable cloud-powered AI assistance
 
 ---
 
@@ -149,12 +159,14 @@ class ThirumalaiBoobathi:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- [ ] 🏆 Publish an open-source Agentic RAG framework
-- [ ] ☁️ Achieve AWS Certified Solutions Architect
-- [ ] 🎤 Speak at an AWS or AI community event
-- [ ] 🤝 Contribute to major LangChain / LangGraph OSS
+- [ ] 🚀 Deploy a production-scale Multi-Agent AI platform on AWS
+- [ ] ☁️ Earn AWS Solutions Architect Associate Certification
+- [ ] 🎤 Deliver a talk at AWS Community Day or GenAI Meetup
+- [ ] 🤝 Contribute to LangGraph / Agentic AI open-source projects
+- [ ] 🧠 Build and publish an Agentic RAG framework
+- [ ] 🌟 Reach 1,000+ GitHub followers through technical content
 
 ---
 
