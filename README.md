@@ -1,26 +1,27 @@
 <div align="center">
 
-<!-- NEURAL NETWORK HEADER ANIMATION -->
+<!-- WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Thirumalaiboobathi%20B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AWS%20Cloud%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C83FD&center=true&vCenter=true&multiline=false&width=600&height=50&lines=🤖+Building+Multi-Agent+Systems;🧠+Designing+Agentic+RAG+Pipelines;☁️+AWS+Bedrock+%26+LangGraph+Explorer;⚛️+React+%2B+Spring+Boot+Full+Stack;🚀+2.5%2B+Years+%7C+Always+Shipping" alt="Typing SVG" />
-</a>
+<!-- TYPING SVG — uses herokuapp which is reliable on GitHub -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C83FD&center=true&vCenter=true&width=650&height=52&lines=%F0%9F%A4%96+Building+Multi-Agent+Systems;%F0%9F%A7%A0+Designing+Agentic+RAG+Pipelines;%E2%98%81%EF%B8%8F+AWS+Bedrock+%26+LangGraph+Explorer;%E2%9A%9B%EF%B8%8F+React+%2B+Spring+Boot+Full+Stack;%F0%9F%9A%80+2.5%2B+Years+%7C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<!-- BADGES — only reliable ones, no AWS Builder link -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ThirumalaiBoobathi&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=thirumalaiboobathi-b&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/thirumalaiboobathi-b-902a51233/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:thiru260402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-thiru260402%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://builder.aws.com/community/@thirumalaiboobathi2">
-    <img src="https://img.shields.io/badge/AWS-Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/thirumalaiboobathi-b">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -88,24 +89,6 @@ class ThirumalaiBoobathi:
 
 **Key Highlights:** `Supervisor Orchestration` • `Agentic RAG` • `Context-Aware Retrieval` • `AWS Cloud-Native`
 
----
-
-<div align="center">
-
-### 🤖 AI DevOps Assistant — Automated Ops Engineer
-
-</div>
-
-> Reducing **MTTR** by combining LLMs with real-world DevOps toolchains.
-
-| Integration | What it does |
-|---|---|
-| 🔧 **Jenkins** | Auto-parses build logs → Root cause via OpenAI |
-| 🐙 **GitHub** | Auto-creates issues from failure analysis |
-| 📝 **Notion** | Logs incident reports automatically |
-| 💬 **Slack** | Real-time ChatOps alert delivery |
-
----
 
 <div align="center">
 
@@ -154,19 +137,6 @@ class ThirumalaiBoobathi:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ThirumalaiBoobathi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C83FD&icon_color=7C83FD&text_color=FFFFFF&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirumalaiBoobathi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C83FD&text_color=FFFFFF&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThirumalaiBoobathi&theme=tokyonight&hide_border=true&background=0D1117&ring=7C83FD&fire=FF6B35&currStreakLabel=7C83FD" />
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 ```
@@ -195,8 +165,8 @@ class ThirumalaiBoobathi:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thirumalaiboobathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumalaiboobathi-b-902a51233/)
-[![Email](https://img.shields.io/badge/Gmail-thiru260402@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiru260402@gmail.com)
-[![AWS Builder](https://img.shields.io/badge/AWS_Builder_Community-Profile-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/@thirumalaiboobathi2)
+[![Email](https://img.shields.io/badge/Gmail-thiru260402%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiru260402@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thirumalaiboobathi-b)
 
 </div>
 
@@ -208,6 +178,6 @@ class ThirumalaiBoobathi:
 
 *"The best way to predict the future is to build it — one agent at a time."*
 
-⭐ **From [Thirumalaiboobathi B](https://github.com/ThirumalaiBoobathi)** — If my work helped you, consider leaving a star!
+⭐ **From [Thirumalaiboobathi B](https://github.com/thirumalaiboobathi-b)** — If my work helped you, consider leaving a star!
 
 </div>
