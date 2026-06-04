@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Thirumalai Boobathi
+# Hi there 👋 I'm Thirumalaiboobathi
 
 <div align="center">
 
